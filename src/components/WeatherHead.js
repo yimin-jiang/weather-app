@@ -7,7 +7,7 @@ class WeatherHead extends React.Component {
       <header className='weatherHead'>
         <BsList
           size='30px'
-          style={{ position: "absolute", left: 0, height: "100%" }}
+          style={{ position: "absolute", left: 0, height: "40px" }}
         />
         <span>Sunday 12th December</span>
       </header>

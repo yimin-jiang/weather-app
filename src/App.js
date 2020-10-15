@@ -5,10 +5,10 @@ import WeatherBody from "./components/WeatherBody";
 
 function App() {
   return (
-    <>
+    <div className='weatherAPP'>
       <WeatherHead />
       <WeatherBody />
-    </>
+    </div>
   );
 }
 
