@@ -1,0 +1,31 @@
+API_KEY = "f6a5164e2bcbd61c2bc261cd86373354"
+
+API = api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+http://api.openweathermap.org/data/2.5/weather?q=paris&appid=f6a5164e2bcbd61c2bc261cd86373354
+
+API2 = api.openweathermap.org/data/2.5/forecast?q={city name}&appid={API key}
+http://api.openweathermap.org/data/2.5/forecast?q=paris&appid=f6a5164e2bcbd61c2bc261cd86373354
+
+
+https://api.openweathermap.org/data/2.5/onecall?lat=48&lon=2&exclude=current,minutely,hourly&units=metric&appid=f6a5164e2bcbd61c2bc261cd86373354
+
+
+1602846000   10/16/2020 @ 11:00am (UTC)
+1602932400   10/17/2020 @ 11:00am (UTC)
+1603018800   10/18/2020 @ 11:00am (UTC)
+1603105200   10/19/2020 @ 11:00am (UTC)
+1603191600
+1603278000
+1603364400   10/22/2020 @ 11:00am (UTC)
+1603450800   10/23/2020 @ 11:00am (UTC)
+
+
+
+weather.main 
+
+Clouds
+Rain
+Clear
+Snow
+Drizzle
+Thunderstorm

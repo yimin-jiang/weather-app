@@ -6,8 +6,8 @@ import WeatherBody from "./components/WeatherBody";
 function App() {
   return (
     <div className='weatherAPP'>
-      <WeatherHead />
-      <WeatherBody />
+      <WeatherHead city='Europe/Paris' />
+      <WeatherBody city='Paris' />
     </div>
   );
 }
